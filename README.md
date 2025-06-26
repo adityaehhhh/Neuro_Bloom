@@ -1,6 +1,6 @@
 # 🧠 Learning Disability Screening Suite
 
-A collection of four full-stack, **gamified** applications built using **Next.js**, **Node.js**, and **Machine Learning / GenAI**, crafted to screen learning disabilities in children through interactive, theme-based games and intelligent analysis.
+A Collection of four full-stack, **gamified** applications built using **Next.js**, **Node.js**, and **Machine Learning / GenAI**, crafted to screen learning disabilities in children through interactive, theme-based games and intelligent analysis.
 
 Each application is independently deployed and targets a specific learning disorder using engaging gameplay mechanics and automated backend evaluation. All tools are **child-centric**, making the experience fun rather than stressful.
 
