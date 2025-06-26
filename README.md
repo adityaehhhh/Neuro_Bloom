@@ -4,6 +4,8 @@ A collection of four full-stack, **gamified** applications built using **Next.js
 
 Each application is independently deployed and targets a specific learning disorder using engaging gameplay mechanics and automated backend evaluation. All tools are **child-centric**, making the experience fun rather than stressful.
 
+**LIVE PROJECT : 
+
 ---
 
 ## 🚀 Projects at a Glance
@@ -16,6 +18,8 @@ Each application is independently deployed and targets a specific learning disor
 | 🍭 Candy Land   | Dyscalculia          | Reasoning-Based  | Next.js, Node.js, GenAI| LLM-based Reasoning (Generative AI) |
 
 ---
+
+**FEATURES** : [neurobloom.vercel.app](https://neuro-bloom-xc4e.vercel.app/)
 
 ## 🧠 Dyslexia Screener
 
