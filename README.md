@@ -19,8 +19,7 @@ Each application is independently deployed and targets a specific learning disor
 
 ## 🧠 Dyslexia Screener
 
-**Live Demo**: [dyslexia.vercel.app](https://dsylexia-final.vercel.app/)  
-**Code**: [GitHub Repo](https://github.com/Avishkar32/Dsylexia_final)
+**Live Demo**: [dyslexia.vercel.app](https://dsylexia-final.vercel.app/)
 
 > **About Dyslexia**  
 > Dyslexia impacts reading accuracy, decoding, and spelling skills.  
@@ -29,8 +28,7 @@ Each application is independently deployed and targets a specific learning disor
 ---
 ## 🔢 Dyscalculia Screener
 
-**Live Demo**: [dyscalculia.vercel.app](https://dyscalculia-screening-game.vercel.app/)  
-**Code**: [GitHub Repo](https://github.com/Avishkar32/Dyscalculia-Screening-Game)
+**Live Demo**: [dyscalculia.vercel.app](https://dyscalculia-screening-game.vercel.app/)
 
 > **About Dyscalculia**  
 > Dyscalculia affects number recognition, math fluency, and spatial awareness.  
@@ -40,8 +38,7 @@ Each application is independently deployed and targets a specific learning disor
 
 ## ✍️ Dysgraphia Screener
 
-**Live Demo**: [dysgraphia.vercel.app](https://dysgraphia-screening-test-eci3.vercel.app/)  
-**Code**: [Frontend](https://github.com/Avishkar32/Dysgraphia_Screening_Test) • [Backend](https://github.com/Avishkar32/DysgraphiaModel)
+**Live Demo**: [dysgraphia.vercel.app](https://dysgraphia-screening-test-eci3.vercel.app/)
 
 > **About Dysgraphia**  
 > Dysgraphia affects handwriting, fine motor control, and letter formation.  
@@ -51,8 +48,7 @@ Each application is independently deployed and targets a specific learning disor
 
 ## 🅰️ ADHD Screener
 
-**Live Demo**: [adhd.vercel.app](https://adhd-hosted-rwmp.vercel.app/)  
-**Code**: [GitHub Repo](https://github.com/Avishkar32/ADHD_Hosted)
+**Live Demo**: [adhd.vercel.app](https://adhd-hosted-rwmp.vercel.app/)
 
 > **About ADHD**  
 > ADHD (Attention Deficit Hyperactivity Disorder) affects focus, attention span, and impulse control.  
@@ -91,10 +87,10 @@ This suite takes a **play-first, diagnose-later** approach by blending:
 
 ## ✍️ Author
 
-**Avishkar Ghodke**  
+**Aditya Tiwari**  
 MERN & Next.js Developer | AI/ML + GenAI Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/avishkar-ghodke-5556762b0/) • [Email](mailto:avishkar.ghodke23@vit.edu)
+[LinkedIn](https://www.linkedin.com/in/adityaehhhh/) • [Email](mailto:aditya.5116451924@std.ggsipu.ac.in)
 
 ---
 
-> ⭐ Explore the live demos, check out the code, and feel free to reach out for feedback, collaboration, or discussion!
+> ⭐ Explore the live demos, feel free to reach out for feedback, collaboration, or discussion!
